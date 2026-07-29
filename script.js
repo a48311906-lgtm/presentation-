@@ -36,16 +36,16 @@ const hotels = {
       { room: 'Suite', ep: '₹5,000', cp: '₹5,500', map: '₹6,500', ap: '–' }
     ],
     photos: [
-      'images/bhopal-room-1.jpeg',
-      'images/bhopal-room-2.jpeg',
-      'images/bhopal-room-3.jpeg',
-      'images/bhopal-room-4.jpeg',
-      'images/bhopal-suite-1.jpeg',
-      'images/bhopal-seating-1.jpeg',
-      'images/bhopal-bathroom-1.jpeg',
-      'images/bhopal-dining-1.jpeg',
-      'images/bhopal-lounge-1.jpeg',
-      'images/bhopal-amenities-1.jpeg'
+      'bhopal-room-1.jpeg',
+      'bhopal-room-2.jpeg',
+      'bhopal-room-3.jpeg',
+      'bhopal-room-4.jpeg',
+      'bhopal-suite-1.jpeg',
+      'bhopal-seating-1.jpeg',
+      'bhopal-bathroom-1.jpeg',
+      'bhopal-dining-1.jpeg',
+      'bhopal-lounge-1.jpeg',
+      'bhopal-amenities-1.jpeg'
     ]
   },
   indore78: {
@@ -60,16 +60,16 @@ const hotels = {
       { room: 'Deluxe', ep: '₹1,400', cp: '₹1,800', map: '₹2,200', ap: '₹2,800' }
     ],
     photos: [
-      'images/indore78-room-1.jpeg',
-      'images/indore78-room-2.jpeg',
-      'images/indore78-room-3.jpeg',
-      'images/indore78-room-4.jpeg',
-      'images/indore78-dining-1.jpeg',
-      'images/indore78-dining-2.jpeg',
-      'images/indore78-dining-3.jpeg',
-      'images/indore78-dining-4.jpeg',
-      'images/indore78-dining-5.jpeg',
-      'images/indore78-dining-6.jpeg'
+      'indore78-room-1.jpeg',
+      'indore78-room-2.jpeg',
+      'indore78-room-3.jpeg',
+      'indore78-room-4.jpeg',
+      'indore78-dining-1.jpeg',
+      'indore78-dining-2.jpeg',
+      'indore78-dining-3.jpeg',
+      'indore78-dining-4.jpeg',
+      'indore78-dining-5.jpeg',
+      'indore78-dining-6.jpeg'
     ]
   }
 };

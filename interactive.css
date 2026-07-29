@@ -27,8 +27,8 @@
 .property-image b i { font-size: 1rem; font-style: normal; margin-left: .6rem; }
 .property-image:hover b, .property-image:focus-visible b { opacity: 1; transform: translateY(0); }
 .property-image:focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
-.property-image--bhopal { background-image: url("images/bhopal-room-1.jpeg"); }
-.property-image--indore78 { background-image: url("images/indore78-room-1.jpeg"); }
+.property-image--bhopal { background-image: url("bhopal-room-1.jpeg"); }
+.property-image--indore78 { background-image: url("indore78-room-1.jpeg"); }
 .room-types { display: grid; gap: .3rem; margin: 0 0 1.45rem; }
 .room-types span, .modal-room-types > span { color: var(--blue); font-size: .58rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
 .room-types strong { font-size: .75rem; }
@@ -84,9 +84,9 @@
 }
 
 .gallery-grid { grid-auto-rows: 210px; }
-.gallery-image--6 { background-image: url("images/bhopal-suite-1.jpeg"); }
-.gallery-image--7 { background-image: url("images/indore78-dining-5.jpeg"); }
-.gallery-image--8 { background-image: url("images/indore78-dining-6.jpeg"); }
+.gallery-image--6 { background-image: url("bhopal-suite-1.jpeg"); }
+.gallery-image--7 { background-image: url("indore78-dining-5.jpeg"); }
+.gallery-image--8 { background-image: url("indore78-dining-6.jpeg"); }
 
 @media (max-width: 730px) { .gallery-grid { grid-auto-rows: 195px; } }
 @media (max-width: 440px) { .gallery-grid { grid-auto-rows: 180px; } }
