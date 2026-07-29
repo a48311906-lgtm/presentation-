@@ -28,13 +28,12 @@ const hotels = {
     name: 'Kreston Heights Hotel Bhopal',
     city: 'Bhopal',
     address: 'Plot No. E-20, Raisen Road, Manak Vihar, Patel Nagar, Bhopal – 462022',
-    tariff: 'Available on enquiry',
+    tariff: 'From ₹3,000 / night',
     rooms: ['Suite', 'Executive'],
     galleryLabel: 'Hotel gallery',
-    isPlaceholderTariff: true,
     tariffs: [
-      { room: 'Suite', ep: '₹2,600', cp: '₹3,000', map: '₹3,600', ap: '₹4,200' },
-      { room: 'Executive', ep: '₹1,800', cp: '₹2,200', map: '₹2,700', ap: '₹3,300' }
+      { room: 'Executive', ep: '₹3,000', cp: '₹3,500', map: '₹4,500', ap: '–' },
+      { room: 'Suite', ep: '₹5,000', cp: '₹5,500', map: '₹6,500', ap: '–' }
     ],
     photos: [
       'images/bhopal-room-1.jpeg',
